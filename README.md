@@ -7,10 +7,7 @@
    ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentation.png)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsetaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&show_icons=true&theme=radical)
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro)](https://github.com/anuraghazra/github-readme-stats)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&hide=contribs,prs)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&count_private=true)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&show_icons=true)
+  
   
 ## My favorite hobbies are in this order:
 
