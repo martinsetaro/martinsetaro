@@ -39,7 +39,7 @@
 ### I am looking to find a place, where my knowledge can be useful, maybe it is few, but with the desire to add it to the projects.
 
 
-----------------------------------------------![este es mi avatar](https://ibb.co/HxD7t6S)------------------------------------
+----------------------------------------------![alt text](https://ibb.co/HxD7t6S)------------------------------------
 
 
 
