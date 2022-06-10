@@ -1,3 +1,8 @@
+   <p align="center"> <img width="600" height="200" src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
+
+
+   
+   
    ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png)
    ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentation.png)
 ## My favorite hobbies are in this order:
