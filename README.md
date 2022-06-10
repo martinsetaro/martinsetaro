@@ -39,7 +39,7 @@
 ### I am looking to find a place, where my knowledge can be useful, maybe it is few, but with the desire to add it to the projects.
 
 
-----------------------------------------------![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/banner.png)------------------------------------
+----------------------------------------------![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png)------------------------------------
 
 
 
