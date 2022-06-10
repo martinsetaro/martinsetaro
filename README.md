@@ -1,11 +1,5 @@
    ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png)
-
-
-
-# Hi!
-### Hello my name is *Martin Setaro*, I currently live in Argentina in the province of Mendoza, where mountains and good wine abound.<br/>
-### I was born in the 80s, part of knowing good music, my taste for technology grew more and more and to this day I am still amazed at all the advances.
-
+   ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentation.png)
 ## My favorite hobbies are in this order:
 
 >Web development<br/>
