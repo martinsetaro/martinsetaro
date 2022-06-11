@@ -11,10 +11,10 @@
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&show_icons=true&theme=radical)
 
 
-# What do you expect from me?<br/>
+### Qué esperas de mi?
+# Conocerás a una persona a la que le gustan los retos, donde la imaginación no tenga límites, me gusta estar rodeado de gente y sugerir ideas, proyectos.Me gusta mucho lo que hago y quiero compartirlo con los demás.
 
-### You will meet a person who likes challenges, where imagination has no limits, I like to be surrounded by people and suggest ideas, projects.
-### I really like what I do and I want to share it with others.
+
 
 ## Mis herramientas
 ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/habilidades.png)
@@ -24,6 +24,10 @@
 ## Cual es mi busqueda
 
 ### Busco un lugar donde aportar todos mis conocimientos, crecer como persona, tanto en lo personal como en lo profesional. Un lugar donde sienta que lo que hago tambíen sea de aprendizaje para los demás, me gusta aprender y enseñar, a escuchar y aconsejar.
+
+
+## Mis canales de contacto
+# https://www.linkedin.com/in/martin-setaro-16068b181/ 
 
 
 
