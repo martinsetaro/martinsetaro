@@ -6,13 +6,13 @@
   
    ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentaciondos.png)
    ## Herramientas utilizadas:
-  <p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsetaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsetaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Mis estadisticas :
-<p align="center">
+
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&show_icons=true&theme=radical)
-</p>
+
 
 
 ### Qué esperas de mi?
