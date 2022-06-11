@@ -1,4 +1,4 @@
-   <p align="center"> <img width="100%" height="450" style='border-radius:40%' src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
+   <p align="center" style='border-radius:40%' > <img width="100%" height="450" src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
 
 
    
