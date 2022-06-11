@@ -1,4 +1,4 @@
-   <p align="center" style='border-radius:40%' > <img width="100%" height="450" src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
+   <p align="center"><img width="100%" height="450" src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
 
 
    
@@ -6,9 +6,9 @@
   
    ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentaciondos.png)
    ## Herramientas utilizadas:
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsetaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   ## Mis estadisticas :
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&show_icons=true&theme=radical)
+  <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsetaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+## Mis estadisticas :
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsetaro&show_icons=true&theme=radical)</p>
 
 
 ### Qué esperas de mi?
