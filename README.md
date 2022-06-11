@@ -21,9 +21,9 @@
 
 
 
-# what am I looking for?
+## Cual es mi busqueda
 
-### I am looking to find a place, where my knowledge can be useful, maybe it is few, but with the desire to add it to the projects.
+### Busco un lugar donde aportar todos mis conocimientos, crecer como persona, tanto en lo personal como en lo profesional. Un lugar donde sienta que lo que hago tambíen sea de aprendizaje para los demás, me gusta aprender y enseñar, a escuchar y aconsejar.
 
 
 
