@@ -1,4 +1,4 @@
-   <p align="center"> <img width="600" height="350" src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
+   <p align="center"> <img width="800" height="450" src="https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/banner.png"></p>
 
 
    
@@ -28,7 +28,8 @@
 
 ## Mis canales de contacto
 # https://www.linkedin.com/in/martin-setaro-16068b181/ 
-
+## Mi portFolio
+# https://martinsetaro.github.io/newportfolio/
 
 
 
