@@ -16,7 +16,7 @@
 
 
 ## Qué esperas de mi?
-### Conocerás a una persona a la que le gustan los retos, donde la imaginación no tenga límites, me gusta estar rodeado de gente y sugerir ideas, proyectos.Me gusta mucho lo que hago y quiero compartirlo con los demás.
+### Conocerás a una persona a la que le gustan los retos, curioso, extrovertido, imaginativo , creativo, me gusta estar rodeado de gente y sugerir ideas, proyectos.Me gusta mucho lo que hago y quiero compartirlo con los demás.
 
 
 
