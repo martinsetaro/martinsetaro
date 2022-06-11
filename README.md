@@ -4,7 +4,7 @@
    
    
   
-   ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentation.png)
+   ![alt text](https://raw.githubusercontent.com/martinsetaro/martinsetaro/master/presentationdos.png)
    ## Herramientas utilizadas:
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsetaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    ## Mis estadisticas :
