@@ -31,9 +31,9 @@
 
 
 ## Mis canales de contacto
-# https://www.linkedin.com/in/martin-setaro-16068b181/ 
+# https://www.linkedin.com/in/jmartinsetaro81 
 ## Mi portFolio
-# https://martinsetaro.github.io/newportfolio/
+# https://portfolio2023-martinsetaro.vercel.app
 
 
 
